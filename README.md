@@ -20,6 +20,18 @@ Possui as telas dos detalhes da receita, uma tela de explorar, uma tela de recei
 Fornece receitas de bebidas e comidas, e recomenda pratos e bebidas que fazem sentido com cada prato!
 
 
+## Clonando o Repositório:
+
+### Com o npm instalado
+
+- git clone https://github.com/DanielHott/AppFood.git
+
+- cd AppFood
+
+- npm install
+
+- npm start
+
 ## Tela de Login: 
 
 Possui 2 validações:  A primeira requer um formato de e-mail válido, e a segunda requer uma senha com 7 ou mais caracteres.
