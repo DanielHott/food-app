@@ -20,17 +20,31 @@ Possui as telas dos detalhes da receita, uma tela de explorar, uma tela de recei
 Fornece receitas de bebidas e comidas, e recomenda pratos e bebidas que fazem sentido com cada prato!
 
 
-## Clonando o Repositório:
+## Rodando localmente
 
-### Com o npm instalado
+Clone o projeto
 
-- git clone https://github.com/DanielHott/AppFood.git
+```bash
+  git clone https://github.com/DanielHott/AppFood.git
+```
 
-- cd AppFood
+Entre no diretório do projeto
 
-- npm install
+```bash
+  cd AppFood
+```
 
-- npm start
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm start
+```
 
 ## Tela de Login: 
 
