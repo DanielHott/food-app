@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielHott/Pagina-de-Receitas/blob/master/LICENSE)
 
 ## Sobre o projeto:
-### Acesse o projeto agora mesmo! https://danielhott.github.io/food-app/#/
+### Acesse o projeto em: [AppFood](https://danielhott.github.io/food-app/#/)
 
 
 Chega de ser a vergonha da profission!
